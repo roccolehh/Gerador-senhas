@@ -7,3 +7,8 @@
     --borda: #003b7e;
 
 }
+
+body{
+    color: var(--branco);
+    background-color: var(--cor-de-fundo);
+}
