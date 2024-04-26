@@ -2,8 +2,8 @@
 
 :root {
     --branco: white;
-    --cor-de-fundo: #318df0;
-    --fundo-texto: #8b1872;
-    --borda: #0075FF;
+    --cor-de-fundo: #8ebff3;
+    --fundo-texto: hsl(314, 76%, 89%);
+    --borda: #003b7e;
 
 }
