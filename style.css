@@ -14,11 +14,12 @@ body{
     color: var(--branco);
     background-color: var(--cor-de-fundo);
     font-family: var(--roboto);
+    font-weight: 400;
 }
 
 .conteudo-titulo{
     text-align: center;
-    margin-top: 400px;
+    margin-top: 80px;
 }
 
 .titulo-principal{
