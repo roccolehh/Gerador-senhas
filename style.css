@@ -5,15 +5,27 @@
     --cor-de-fundo: #aad3ff;
     --fundo-texto: hsl(314, 76%, 89%);
     --borda: #003b7e;
+    --roboto: 'Roboto' , sans-serif;
+    --roboto-mono: 'Roboto Mono', monospace;
 
 }
 
 body{
     color: var(--branco);
     background-color: var(--cor-de-fundo);
+    font-family: var(--roboto);
 }
 
 .conteudo-titulo{
     text-align: center;
-    margin-top: 80px;
+    margin-top: 400px;
+}
+
+.titulo-principal{
+    font-family: var(--roboto-mono);
+    font-size: 32px;
+}
+
+.titulo-secundario{
+    font-size: 24px;
 }
